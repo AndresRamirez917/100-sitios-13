@@ -54,6 +54,10 @@ a {
   text-decoration: none;
 }
 
+.upper {
+  text-transform: uppercase;
+}
+
 /* Navbar */
 #navbar {
     overflow: auto;
